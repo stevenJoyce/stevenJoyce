@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenJoyce)](https://github.com/stevenJoyce/github-readme)
 ![Steven's's github stats](https://github-readme-stats.vercel.app/api?username=stevenJoyce&count_private=true)
-![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenJoyce&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenJoyce&layout=compact)](https://github.com/stevenJoyce/github-readme-stats)
+![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenJoyce&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenJoyce&layout=compact&theme=radical)](https://github.com/stevenJoyce/github-readme-stats)
 
 
 
